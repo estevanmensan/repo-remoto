@@ -1,0 +1,200 @@
+ --------------------------------------
+| Opção escolhida: Extrato
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 500.0
+| Seu saldo atual é de: 600.0
+| 
+ --------------------------------------
+ --------------------------------------
+| Opção escolhida: Extrato
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 500.0
+| Seu saldo atual é de: 600.0
+| 
+ --------------------------------------
+ --------------------------------------
+| Opção escolhida: Extrato
+| 
+| Quantidade depositada: 1000.0
+| Quantidade sacada: 500.0
+| Seu saldo atual é de: 1500.0
+| 
+ --------------------------------------
+ --------------------------------------
+| Opção escolhida: Extrato
+| 
+| Quantidade depositada: 300.0
+| Quantidade sacada: 150.0
+| Seu saldo atual é de: 1150.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 1050.0
+| Quantidade sacada: 350.0
+| Seu saldo atual é de: 1700.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 659.0
+| Quantidade sacada: 50.0
+| Seu saldo atual é de: 1609.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 10.0
+| Quantidade sacada: 10.0
+| Seu saldo atual é de: 960.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 10.0
+| Quantidade sacada: 5.0
+| Seu saldo atual é de: 1005.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 0
+| Quantidade sacada: 0
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 0
+| Quantidade sacada: 0
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 0
+| Quantidade sacada: 0
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: None
+| Quantidade sacada: None
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 0.0
+| Quantidade sacada: 0.0
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 0.0
+| Quantidade sacada: 0.0
+| Seu saldo atual é de: 1000
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 0.0
+| Seu saldo atual é de: 1100.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 50.0
+| Seu saldo atual é de: 1050.0
+| 
+ --------------------------------------
+| 
+| Quantidade depositada: 10.0
+| Quantidade sacada: 475.05
+| Seu saldo atual é de: 534.95
+| 
+As funções selecionadas foram: 
+['Deposito escolhido - quantia: 10.0', 'Saldo visualizado: 1010.0', 'Saque escolhido - quantia: 475.05', 'Saldo visualizado: 534.95'] 
+ --------------------------------------
+| 
+| Quantidade depositada: 10.0
+| Quantidade sacada: 475.05
+| Seu saldo atual é de: 534.95
+| 
+As funções selecionadas foram: 
+['Deposito escolhido - quantia: 10.0', 'Saldo visualizado: 1010.0', 'Saque escolhido - quantia: 475.05', 'Saldo visualizado: 534.95', 'Extrato escolhido - Valores apresentados na tela'] 
+ --------------------------------------
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 0.0
+| Seu saldo atual é de: 1100.0
+| 
+As funções selecionadas foram: 
+['Saldo visualizado: 1000', 'Deposito escolhido - quantia: 100.0\n', 'Extrato escolhido - Valores apresentados na tela'] 
+ --------------------------------------
+| 
+| Quantidade depositada: 100.0
+| Quantidade sacada: 0.0
+| Seu saldo atual é de: 1100.0
+| 
+As funções selecionadas foram: 
+['Saldo visualizado: 1000', 'Deposito escolhido - quantia: 100.0\n', 'Extrato escolhido - Valores apresentados na tela'] 
+ --------------------------------------
+| 
+| Quantidade depositada: 350.0
+| Quantidade sacada: 43.57
+| Seu saldo atual é de: 1156.43
+| 
+As funções selecionadas foram: 
+['Saldo visualizado: 1000', 'Saque escolhido - quantia: 150.0', 'Saldo visualizado: 850.0', 'Deposito escolhido - quantia: 350.0', 'Saque escolhido - quantia: 43.57', 'Saldo visualizado: 1156.43', 'Extrato escolhido - Valores apresentados na tela'] 
+ --------------------------------------
+| 
+| Quantidade depositada: 350.0
+| Quantidade sacada: 43.57
+| Seu saldo atual é de: 1156.43
+| 
+As funções selecionadas foram: 
+['Saldo visualizado: 1000', 'Saque escolhido - quantia: 150.0', 'Saldo visualizado: 850.0', 'Deposito escolhido - quantia: 350.0', 'Saque escolhido - quantia: 43.57', 'Saldo visualizado: 1156.43', 'Extrato escolhido - Valores apresentados na tela'] 
+ --------------------------------------

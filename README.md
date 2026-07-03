@@ -145,6 +145,7 @@ Este repositório foi criado com o intuito de armezenar projetos de treino que i
           Permitir salvar tudo em um arquivo texto ou JSON
 </details>
 
+
 <details>
 <summary> <span style="font-size:25px;"> <strong> Desafio Final: 📦 Mini WMS (Sistema de Gerenciamento de Estoque) </strong> </span> </summary>
 
@@ -168,7 +169,8 @@ Este repositório foi criado com o intuito de armezenar projetos de treino que i
 </details>
  
 ## Diário de Programação
-- Está seção funcionara como um relatório descrevendo os passos das coisas que foram feitas no dia 
+- Está seção funcionara como um relatório descrevendo melhor os desafios desenvolvidos no dia.
+
 <details>
 <summary> <strong> 27/06/2026 </strong></summary>
 
@@ -191,5 +193,30 @@ Este repositório foi criado com o intuito de armezenar projetos de treino que i
             Difícil = 5 tentativas
 
   - Esta programa permitiu que eu pratique minha esrtura de código e a fixação de conceitos como: if/else, while e funções. 
+
+
+
+</details>
+
+<details>
+<summary> <strong> 03/07/2026 </strong></summary>
+
+- 2° dia praticando
+
+  - Segundo desafio concluído com sucesso. Novamente mantive o auxilio minimo de IA me obrigando a programar 100% do código.
+      
+  - O desafio de hoje consistiu em fazer um programa onde simula-se o funcionamente de um CAIXA ELETRÔNICO. No programa temos um saldo inicial e o usuário decide o quais operações ele irá realizar. Foi utilizado uma lista para apresentar toda a ação que o usuário fez. 
+  
+  - As opção que o usuário tinha eram:
+       
+              1 - Ver saldo
+              2- Sacar
+              3- Depositar
+              4- Extrato
+              5- Sair 
+
+  - O programa trabalhou bastate as funções e condicionais, aprimorando minhas habilidades com estas operaçõe. Há alguns pontos para melhoria dentro do código, mas o objetivo principal foi resolvido e os 'bugs' podem ser resolvidos em práticas futuras.
+
+  - Devo aprimorar meus conceitos de laços de repetição for e conhecimento de lista, dicionário e tuplas. 
 
 </details>

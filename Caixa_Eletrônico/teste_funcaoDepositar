@@ -1,0 +1,24 @@
+
+
+saldo=1000
+def depositar(x):
+    print(" --------------------------------------") 
+    deposito = saldo + x
+    return deposito
+    
+
+print(" --------------------------------------") 
+print("|Opção escolhida: Depositar")
+print("|Quanto você deseja depositar? ")
+try:
+    qtd = float(input("R$ "))
+except ValueError:
+    print("Por favor, insira somente números!")
+
+saldo = depositar(qtd)
+
+
+#print(" --------------------------------------") 
+#print(depositar(qtd))
+print(f"O saldo foi atualizado!\n{saldo}")
+
